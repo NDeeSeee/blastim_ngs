@@ -1,0 +1,8 @@
+chr17_7674220_C/T	TP53	missense_variant	HIGH
+chr7_55191822_T/G	EGFR	missense_variant	HIGH
+chr17_43067607_G/A	BRCA1	missense_variant	MODERATE
+chr17_7675233_G/T	TP53	missense_variant	MODERATE
+chr17_43094447_T/C	BRCA1	synonymous_variant	LOW
+chr17_43090946_G/A	BRCA1	5_prime_UTR_variant	MODIFIER
+chr17_43049194_T/TA	BRCA1	frameshift_variant	HIGH
+chr17:43000000	DUP	500000	BRCA1	SV
