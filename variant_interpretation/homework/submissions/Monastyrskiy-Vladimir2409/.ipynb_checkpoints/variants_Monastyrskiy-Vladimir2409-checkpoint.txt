@@ -1,0 +1,8 @@
+chr17_7674220_C/T	TP53	missense_variant	HIGH
+chr7_140753336_A/T	BRAF	missense_variant	HIGH
+chr17_43067607_G/A	BRCA1	missense_variant	MODERATE
+chr17_7675233_G/T	TP53	missense_variant	MODERATE
+chr17_7685012_C/T	TP53	splice_region_variant,intron_variant	LOW
+chr17_43090946_G/A	BRCA1	5_prime_UTR_variant	MODIFIER
+chr17_43104261_T/TA	BRCA1	frameshift_variant	HIGH
+chr17:7600000	DEL	-20000	TP53_upstream	SV
